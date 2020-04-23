@@ -1,2 +1,2 @@
-# GihubActionTest
-GihubActionTest
+# GithubActionTest
+GithubActionTest
