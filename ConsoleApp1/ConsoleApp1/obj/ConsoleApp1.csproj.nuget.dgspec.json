@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
-        "projectName": "ConsoleApp3",
-        "projectPath": "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\freebox\\.nuget\\packages\\",
-        "outputPath": "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "outputPath": "C:\\CSHWorkspace\\PrivateProject\\3_GithubActionTest\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\freebox\\AppData\\Roaming\\NuGet\\NuGet.Config",
